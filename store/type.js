@@ -1,0 +1,3 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const SET_CURRENT_TAB = "SET_CURRENT_TAB";
+export const SET_FOOD_CATEGORY = "SET_FOOD_CATEGORY";
